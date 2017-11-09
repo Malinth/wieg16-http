@@ -15,9 +15,9 @@ echo "<p> Efternamn: '$x' </p>";
 
 
 <form action="uppgift2.php" method="post">
-First name:<br>
+Firstname:<br>
 <input type="text" name="firstname" value=""><br>
-Last name:<br>
+Lastname:<br>
 <input type="text" name="lastname" value=""><br><br>
 <input type="submit" value="Submit">
 </form>
